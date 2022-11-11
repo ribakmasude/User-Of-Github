@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyGithubUserApp</string>
+    <string name="title_home">Github User</string>
+    <string name="title_favorite">Favorite User</string>
+    <string name="title_setting">Setting</string>
+    <string name="txt_no_data">Load data error</string>
+    <string name="txt_no_data_favorite">No favorite user</string>
+    <string name="text_home">Home</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_setting">Setting</string>
+    <string name="text_hint">Masukkan username</string>
+    <string name="text_dark_mode">dark mode</string>
+    <string name="text_follower">Follower</string>
+    <string name="text_following">Following</string>
+    <string name="text_repository">Repository</string>
+    <string name="text_jumlah_following">Following</string>
+    <string name="text_no_Follow">There no some user</string>
+    <string name="text_username">Username</string>
+    <string name="text_github_user">Github User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
